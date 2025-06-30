@@ -1,4 +1,4 @@
-# CS230-
+# CS230-Software
 Our client The Gaming Room, is a company that creates online, multi-platform video games. Their primary requirment for me and my team was to create a scalable, cross-platform applicaiton that would be used for an ipcoming game called "Draw It or Lose It". The software they wanted me to create could run on Android, iOS, and Windows OS platforms. 
 I excelled in organizing a clear, documented timeline of what was created, when they were created, and how they are used in the project. I excelled at committing to our shift to a Scrum-Agile development cycle from a waterfall development cycle.
 When developing the code, the user stories we had collected gave me a better idea of what the software should be able to do. At the beginning of this project, there were no clear direction as Agile is intended to be used for.
